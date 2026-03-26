@@ -670,7 +670,7 @@ function MainContent() {
               </p>
               <p className="text-3xl font-bold pt-4">
                 With all my love,<br/>
-                Your brother, Elia
+                Your brother, Elia <br/>
                 HAPPY BIRTHDAY CUTIE.......
               </p>
             </div>
