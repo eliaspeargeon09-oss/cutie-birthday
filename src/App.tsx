@@ -657,20 +657,21 @@ function MainContent() {
             
             <div className="space-y-6 text-xl text-pink-800 font-cursive leading-relaxed">
               <p>
-                Dearest Pedhakka, you've always been more than just a sister to me. 
-                You're my guide, my protector, and my best friend.
+                Happy birthday cutie, its my first website and first project too
+                I hope u liked it
               </p>
               <p>
-                Watching you grow and achieve so much makes me incredibly proud. 
-                I hope this little surprise brought a smile to your face today!
+                Happy Birthday to the one who is intelligent in every aspect
+                who gets anger fast and cools down fast too
               </p>
               <p>
-                May your year be filled with as much joy, laughter, and love as you give to everyone around you. 
-                Keep shining bright, and remember that I'm always here for you.
+                To the one who gets upset and never share with anyone(except me)
+                and finally who just shares her feelings and emotions with me
               </p>
               <p className="text-3xl font-bold pt-4">
                 With all my love,<br/>
                 Your brother, Elia
+                HAPPY BIRTHDAY CUTIE.......
               </p>
             </div>
 
